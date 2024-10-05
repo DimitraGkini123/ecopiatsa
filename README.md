@@ -1,6 +1,7 @@
 # ecopiatsa
 
 A new Flutter project.
+Android app for car sharing.
 
 ## Getting Started
 
